@@ -1,0 +1,12 @@
+{
+	"name": "w7corp/cloud-openapi",
+	"description": "微擎开放api",
+	"type": "library",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "we7team",
+			"email": "donknap@gmail.com"
+		}
+	]
+}
